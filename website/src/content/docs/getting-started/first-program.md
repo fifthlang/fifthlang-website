@@ -9,7 +9,7 @@ This guide walks you through writing a simple Fifth program, compiling it, and r
 
 ## Prerequisites
 
-Make sure you have the Fifth compiler installed. If not, follow the [Installation Guide](/docs/getting-started/installation) first.
+Make sure you have the Fifth compiler installed. Otherwise, follow the [Installation Guide](/docs/getting-started/installation) first.
 
 Verify your installation:
 
