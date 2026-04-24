@@ -31,6 +31,6 @@ jobs:
       - name: Deploy to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
-          personal_token: ${{ secrets.DEPLOYMENT_TOKEN }}
+          github_token: ${{ github.token }}
           publish_dir: ./website/dist
           cname: fifth-lang.org
